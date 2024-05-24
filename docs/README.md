@@ -7,9 +7,9 @@ footer: "ECL 2.0 Licensed | Copyright © 2024 Yaroslav Okroshko"
 ---
 
 
-**Виконали:** 
+**Виконав:** 
 
-*студента 2-го курсу, групи ІО-26* 
+*студент 2-го курсу, групи ІО-26* 
 
 - <span padding-right:5em></span> **Ярослав Поволоцький** <a href="https://t.me/X_Rader_zit" target="_blank"> Telegram </a>  
 
